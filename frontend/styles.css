@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #aaa;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.rewards ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
